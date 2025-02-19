@@ -1,4 +1,4 @@
-**_Versão Atual / Current Version / Versión actual: 1.0 (Termux)_**
+**_Versão Atual / Current Version: 1.0 (Termux)_**
 
 **// 🇧🇷🇧🇷 Português (_Brasil_) //**
 
