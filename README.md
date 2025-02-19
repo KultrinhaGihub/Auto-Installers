@@ -7,7 +7,3 @@ _Bem-Vindo! Esse repositório contém scripts de Auto-Install para várias distr
 **// 🇺🇸🇺🇸 English (_Inglês_) //**
 
 _Welcome! This repository contains Auto-Install scripts for various distros to make the setup process easier and faster. It is a practical way to automate the installation of packages and adjustments in the system, making everything simpler and faster. I even love creating Auto-Installers, I hope you like :)._
-
-**// 🇪🇸🇪🇸 Español (_Espanhol/Spanish_) //**
-
-_¡Bienvenido! Este repositorio contiene scripts de instalación automática para varias distribuciones para que el proceso de configuración sea más fácil y rápido. Es una forma práctica de automatizar la instalación de paquetes y ajustes en el sistema, haciendo que todo sea más sencillo y rápido. Incluso me encanta crear autoinstaladores, espero que te guste :)._
