@@ -1,5 +1,5 @@
 # Auto-Installers
->**Current Version Termux App: 1.1** _(Termux)_
+>**Current Version Termux App: 1.2** _(Termux)_
 
 >**Current Version Fedora Linux: 1.0.1** _(Fedora)_
 
